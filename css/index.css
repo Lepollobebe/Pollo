@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div.encabezado{
+    background-color: rgb(107, 107, 255);
+    width: 100%;
+    height: 100px;
+}
+div.lateral1{
+    background-color: rgb(144, 255, 107);
+    width: 40%;
+    height: 300px;
+    float: left;  
+}
+div.lateral2{
+    background-color: rgb(255, 107, 201);
+    width: 60%;
+    height: 300px;  
+   float: left;
+}
+div.abajo{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(107, 255, 220);
+    clear: both;
+}
+div.pie{
+    background-color: rgb(107, 107, 255);
+    width: 100%;
+    height: 100px;
+}
