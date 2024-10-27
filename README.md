@@ -1,4 +1,3 @@
-# ADELAIDA CANO MOLINA
 <!DOCTYPE html>
 <html lang="en">
 <head>
